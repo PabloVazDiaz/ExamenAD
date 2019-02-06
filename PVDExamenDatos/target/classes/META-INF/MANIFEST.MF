@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PVDExamenDatos
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AN0Nl
+Implementation-Vendor-Id: es.fesac
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PVDExamenDatos
+Created-By: Maven Integration for Eclipse
+
